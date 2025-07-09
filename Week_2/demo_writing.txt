@@ -1,0 +1,1 @@
+Demonstrating write mode in filesDemonstrating appending in filesDemonstrating appending in files
